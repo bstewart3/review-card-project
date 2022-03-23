@@ -1,2 +1,2 @@
 # review-card-project
-review card flipper project.
+Review card flipper project. Made with Vanilla JS.
